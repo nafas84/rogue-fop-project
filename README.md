@@ -1,7 +1,5 @@
-Project
-Nafiseh Zarei 403106024
-شما می‌توانید داک‌های هر فاز پروژه را از لینک‌های زیر دانلود کنید:
+# Rogue (Recreation)
 
-فاز اول:
+This is my **first programming project**, created for the course **FOP (Fundamentals of Programming)**.  
 
-https://github.com/FundamentalOfProgramming-SUT-2024/fundamentalofprogramming-sut-2024-classroom-fop2024_project-Rogue_Project/blob/main/FOP_Project2024-Phase1.pdf
+The project is implemented in **C** using the **ncurses library** to create a text-based interface. It is essentially a **recreation of the game Rogue**.
