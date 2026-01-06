@@ -15,7 +15,7 @@
 #define s_wall_o "─"
 #define s_wall_a "│"
 #define s_floor "."
-#define s_pillar "𐃏"
+#define s_pillar "⌾"
 #define s_stair "⫸"
 #define s_window "="
 #define s_path "*"
@@ -26,7 +26,7 @@
 // Foods
 #define s_normal_food "🌢"
 #define s_exellent_food "☘"
-#define s_magical_food "𐂂"
+#define s_magical_food "࿉"
 //#define s_spoiled_food "𓆛"
 // Gold
 #define s_normal_gold "⛂"
